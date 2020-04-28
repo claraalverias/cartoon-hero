@@ -1,0 +1,72 @@
+html,body{
+	font-family: Arial,sans-serif;
+	margin:0;
+}
+
+header{
+	background-color: #F3DA4C;
+	padding:40px;
+	text-align: center;
+
+}
+
+h1{
+	font-size: 90px;
+	color:#5E6072 ;
+}
+
+header img{
+	border-radius:200px;
+	width:250px;
+	border: 20px solid #FBAF3B;
+
+}
+
+.content{
+	max-width:900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: yellow;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #034488;
+
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 5px 10px;
+}
+
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Minion</h1>
+		</header>*/
